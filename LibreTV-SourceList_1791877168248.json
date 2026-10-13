@@ -1,0 +1,68 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 2,
+  "exportedAt": 1791877168247,
+  "sources": [
+    {
+      "name": "暴风",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "玉兔1",
+      "url": "https://apiyutu.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "155资源1",
+      "url": "https://155api.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "天涯影视",
+      "url": "https://tyyszyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "番号1",
+      "url": "http://fhapi9.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "乐博1",
+      "url": "https://lbapi9.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "艾丹",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "奥斯卡1",
+      "url": "https://aosikazy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "番茄1",
+      "url": "https://fqzy.me/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "行吧1",
+      "url": "https://json.xingba222.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "新极品1",
+      "url": "https://jipinvip1.com/api.php/provide/vod",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
